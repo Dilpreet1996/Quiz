@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color:blanchedalmond;
+    
+    
+}
+button{
+    font-size: 18px;
+    padding: 15px;
+    margin: 10px;
+    background-color: lavenderblush;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+   
+    
+    
+
+   
+  }
+  th, td {
+    padding: 5px;
+    
+   text-align: center;
+  }
+  #btn
+  {
+    background-color: #4CAF50; 
+    border-radius: 50%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+
+    
+  }
+  .btn
+  {
+      border-radius: 50%;
+  }
