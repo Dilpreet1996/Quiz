@@ -70,11 +70,23 @@ table, th, td {
     box-shadow: 0px 8px 16px 0px(0,0,0,0.2);
     z-index: 1;
   }
+  .dropdown-content2
+  {
+    display: none;
+    position:static;
+   color: green;
+    box-shadow: 0px 8px 16px 0px(0,0,0,0.2);
+    z-index: 1;
+  }
   .dropdown:hover .dropdown-content
   {
     display: block;
   }
   .dropdown1:hover .dropdown-content1
+  {
+    display: block;
+  }
+  .dropdown2:hover .dropdown-content2
   {
     display: block;
   }
