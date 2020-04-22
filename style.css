@@ -50,7 +50,7 @@ table, th, td {
   {
     display: none;
     position: -ms-page;
-   color: lightslategrey;
+   color: red;
     box-shadow: 0px 8px 16px 0px(0,0,0,0.2);
     z-index: 1;
   }
@@ -58,7 +58,7 @@ table, th, td {
   {
     display: none;
     position: -ms-page;
-   color: lightslategrey;
+   color: red;
     box-shadow: 0px 8px 16px 0px(0,0,0,0.2);
     z-index: 1;
   }
